@@ -3,6 +3,8 @@
 
     <string name="add_prompt">Select Category</string>
 
+    <string name="open">open</string>
+    <string name="close">close </string>
     <string-array name="Area">
         <item>1500</item>
         <item>1200</item>

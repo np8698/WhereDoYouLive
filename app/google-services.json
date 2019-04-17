@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "466698020788",
+    "firebase_url": "https://where-should-you-live.firebaseio.com",
+    "project_id": "where-should-you-live",
+    "storage_bucket": "where-should-you-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466698020788:android:7c8ac8eff5efb1c2",
+        "android_client_info": {
+          "package_name": "com.example.wheredoyoulive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466698020788-ool5sv0v1afrivd51n67ji6r77g1tcc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wheredoyoulive",
+            "certificate_hash": "018d952e268493182decd9a477e53c879248b403"
+          }
+        },
+        {
+          "client_id": "466698020788-afc5cn3fvf9r5m4pa3qalir38j1k3iq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjzr4ZLx_KGi60NSqG25wFHLPLpT0uqWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466698020788-afc5cn3fvf9r5m4pa3qalir38j1k3iq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
