@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WheredoyouLive</string>
+
+    <string name="add_prompt">Select Category</string>
+
+    <string-array name="Area">
+        <item>1500</item>
+        <item>1200</item>
+        <item>900</item>
+        <item>600</item>
+        <item>300</item>
+        <item>100</item>
+    </string-array>
+
+</resources>
